@@ -1,0 +1,3 @@
+cd /home/mark/chia-blockchain && . ./activate && sleep 0h && chia plots create -r 4 -b 3800 -n 30 -t /media/mark/Plotting/temp1 -d /mnt/hdd4 |tee -a /home/mark/chia_helpers/chialogs/chia3_1_.log
+
+
