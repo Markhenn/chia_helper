@@ -13,4 +13,3 @@ if chia farm summary | grep -q 'Farming status: Not synced or not connected to p
 else
     echo "$currentDate: No Need to restart!" >> ~/chia_helpers/restart_chia.log
 fi
-
